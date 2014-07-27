@@ -24,6 +24,9 @@ crawler.on('content', function(response, content){
 });
 ```
 
+### More examples
+See more examples found in ```examples\```
+
 ## API
 
 ### Events
