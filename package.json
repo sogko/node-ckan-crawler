@@ -1,6 +1,6 @@
 {
   "name": "node-ckan-crawler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "NodeJS based crawler for CKAN sites",
   "main": "index.js",
   "scripts": {
